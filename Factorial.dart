@@ -14,7 +14,7 @@ int Factorial(int n){
 
 void main(){
   print('Inserte un valor para calcular el factorial');
-  int n = int.parse(stdin.readLineSync());
+  int? n = int.parse(stdin.readLineSync()!);
   if (n>=0){
     print(Factorial(n));
   }
