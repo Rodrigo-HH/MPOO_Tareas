@@ -1,6 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-////Tarea 2:
+////Tarea 3:
 //Integrantes: 
 //Hernandes Esteban Daniel; danylechuga00@gmail.com
 //Hernández Hernández Rodrigo; masterm7481@gmail.com
